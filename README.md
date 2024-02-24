@@ -1,4 +1,3 @@
-# xyxzzhao.github.io
 ## IPTV资源梳理
 
 ​    不定期更新梳理IPTV源
@@ -67,3 +66,7 @@ Update: 2024年2月23日
 | 51zmt.top | [51zmt.xml](https://m3u.ibert.me/epg/51zmt.xml)           | - |
 | 51zmt.top cc | [51zmt_cc.xml](https://m3u.ibert.me/epg/51zmt_cc.xml)     | - |
 | 51zmt.top difang | [51zmt_df.xml](https://m3u.ibert.me/epg/51zmt_df.xml)     | - |
+
+### EPG
+
+[MIT](https://github.com/xyxzZhao/xyxzzhao.github.io/blob/main/LICENSE) © xyxz Zhao 2024
