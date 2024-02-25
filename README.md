@@ -1,6 +1,6 @@
 ## IPTV资源梳理
 
-​    不定期更新梳理IPTV源
+> 不定期更新梳理IPTV源
 
 Sources are from:
 
