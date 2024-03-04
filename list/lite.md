@@ -1,105 +1,188 @@
 ## List for **lite**
 > M3U: [lite.m3u](/lite.m3u), TXT: [lite.txt](/lite.txt)
 
-| No. | Channel Name | From | Source |
-| --- | ------------ | ---- | ------ |
-| 1 | CCTV-1 综合 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8> |
-| 2 | CCTV-2 财经 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8> |
-| 3 | CCTV-3 综艺 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8> |
-| 4 | CCTV-4 中文国际 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8> |
-| 5 | CCTV-5 体育 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8> |
-| 6 | CCTV-6 电影 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8> |
-| 7 | CCTV-7 国防军事 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8> |
-| 8 | CCTV-8 电视剧 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8> |
-| 9 | CCTV-9 纪录 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8> |
-| 10 | CCTV-10 科教 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8> |
-| 11 | CCTV-11 戏曲 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8> |
-| 12 | CCTV-12 社会与法 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8> |
-| 13 | CCTV-13 新闻 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8> |
-| 14 | CCTV-14 少儿 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8> |
-| 15 | CCTV-15 音乐 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8> |
-| 16 | CCTV-16 奥林匹克 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8> |
-| 17 | CCTV-17 农业农村 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8> |
-| 18 | CCTV-16 奥林匹克 4K | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8> |
-| 19 | CGTN英语 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8> |
-| 20 | 北京卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8> |
-| 21 | 湖南卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8> |
-| 22 | 东方卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8> |
-| 23 | 四川卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8> |
-| 24 | 天津卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8> |
-| 25 | 安徽卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8> |
-| 26 | 山东卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8> |
-| 27 | 广东卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8> |
-| 28 | 广西卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8> |
-| 29 | 江苏卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8> |
-| 30 | 江西卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8> |
-| 31 | 河北卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8> |
-| 32 | 河南卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8> |
-| 33 | 浙江卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8> |
-| 34 | 海南卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8> |
-| 35 | 深圳卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8> |
-| 36 | 湖北卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8> |
-| 37 | 山西卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8> |
-| 38 | 东南卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8> |
-| 39 | 贵州卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8> |
-| 40 | 辽宁卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8> |
-| 41 | 重庆卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8> |
-| 42 | 黑龙江卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8> |
-| 43 | 内蒙古卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001068/index.m3u8> |
-| 44 | 宁夏卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8> |
-| 45 | 陕西卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8> |
-| 46 | 甘肃卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8> |
-| 47 | 吉林卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8> |
-| 48 | 云南卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8> |
-| 49 | 三沙卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8> |
-| 50 | 青海卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8> |
-| 51 | 新疆卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8> |
-| 52 | 西藏卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8> |
-| 53 | 兵团卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8> |
-| 54 | 延边卫视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8> |
-| 55 | CETV-1 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8> |
-| 56 | CETV-2 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8> |
-| 57 | CETV-4 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8> |
-| 58 | 金色学堂 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8> |
-| 59 | 纪实人文 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8> |
-| 60 | 生活时尚 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8> |
-| 61 | 乐游频道 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8> |
-| 62 | 都市剧场 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8> |
-| 63 | 欢笑剧场 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8> |
-| 64 | 卡酷少儿 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8> |
-| 65 | 金鹰纪实 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8> |
-| 66 | 金鹰卡通 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8> |
-| 67 | 茶友频道 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8> |
-| 68 | 快乐垂钓 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8> |
-| 69 | 嘉佳卡通 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8> |
-| 70 | 动漫秀场 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8> |
-| 71 | 哈哈炫动 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8> |
-| 72 | 游戏风云 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8> |
-| 73 | 家庭理财 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8> |
-| 74 | 财富天下 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8> |
-| 75 | 中国天气 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8> |
-| 76 | 上海新闻 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8> |
-| 77 | 上海都市 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8> |
-| 78 | 上海ICS | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8> |
-| 79 | 七彩戏剧 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8> |
-| 80 | 上海教育 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8> |
-| 81 | 五星体育 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8> |
-| 82 | 东方影视 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8> |
-| 83 | 东方财经 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8> |
-| 84 | 法治天地 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8> |
-| 85 | 第一财经 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8> |
-| 86 | Bestv赛事1 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8> |
-| 87 | Bestv赛事2 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001359/index.m3u8> |
-| 88 | Bestv赛事3 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8> |
-| 89 | Bestv赛事4 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8> |
-| 90 | Bestv赛事5 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8> |
-| 91 | Bestv赛事6 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8> |
-| 92 | 东方购物1 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8> |
-| 93 | 东方购物2 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8> |
-| 94 | 央广购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8> |
-| 95 | 优购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001440/index.m3u8> |
-| 96 | 好享购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001132/index.m3u8> |
-| 97 | 聚鲨精选 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001138/index.m3u8> |
-| 98 | 家家购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8> |
-| 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
-| 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
+| Group | No. | Channel Name | Source |
+| ----- | --- |------------- | ------ |
+| 央视频道 | 2 | CCTV-2 财经 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8> |
+| 央视频道 | 3 | CCTV-3 综艺 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8> |
+| 央视频道 | 4 | CCTV-4 中文国际 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8> |
+| 央视频道 | 5 | CCTV-5 体育 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8> |
+| 央视频道 | 6 | CCTV-5+ 体育赛事 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8> |
+| 央视频道 | 7 | CCTV-6 电影 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8> |
+| 央视频道 | 8 | CCTV-7 国防军事 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8> |
+| 央视频道 | 9 | CCTV-8 电视剧 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8> |
+| 央视频道 | 10 | CCTV-9 纪录 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8> |
+| 央视频道 | 11 | CCTV-10 科教 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8> |
+| 央视频道 | 12 | CCTV-11 戏曲 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8> |
+| 央视频道 | 13 | CCTV-12 社会与法 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8> |
+| 央视频道 | 14 | CCTV-13 新闻 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8> |
+| 央视频道 | 15 | CCTV-14 少儿 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8> |
+| 央视频道 | 16 | CCTV-15 音乐 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8> |
+| 央视频道 | 17 | CCTV-16 奥林匹克 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8> |
+| 央视频道 | 18 | CCTV-17 农业农村 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8> |
+| 央视频道 | 19 | CCTV-16 奥林匹克 4K | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8> |
+| 央视频道 | 20 | CCTV-4K 超高清 | <http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8> |
+| 央视频道 | 21 | CCTV-8K 超高清 | <http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8> |
+| 央视频道 | 22 | CHC动作电影 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8> |
+| 央视频道 | 23 | CHC家庭影院 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8> |
+| 央视频道 | 24 | CHC高清电影 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8> |
+| 央视频道 | 25 | 凤凰中文 | <http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8> |
+| 卫视频道 | 26 | 凤凰资讯 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8> |
+| 卫视频道 | 27 | 凤凰香港 | <http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8> |
+| 卫视频道 | 28 | 北京卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8> |
+| 卫视频道 | 29 | 湖南卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8> |
+| 卫视频道 | 30 | 东方卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8> |
+| 卫视频道 | 31 | 四川卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8> |
+| 卫视频道 | 32 | 天津卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8> |
+| 卫视频道 | 33 | 安徽卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8> |
+| 卫视频道 | 34 | 山东卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8> |
+| 卫视频道 | 35 | 广东卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8> |
+| 卫视频道 | 36 | 广西卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8> |
+| 卫视频道 | 37 | 江苏卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8> |
+| 卫视频道 | 38 | 江西卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8> |
+| 卫视频道 | 39 | 河北卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8> |
+| 卫视频道 | 40 | 河南卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8> |
+| 卫视频道 | 41 | 浙江卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8> |
+| 卫视频道 | 42 | 海南卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8> |
+| 卫视频道 | 43 | 深圳卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8> |
+| 卫视频道 | 44 | 湖北卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8> |
+| 卫视频道 | 45 | 山西卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8> |
+| 卫视频道 | 46 | 东南卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8> |
+| 卫视频道 | 47 | 贵州卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8> |
+| 卫视频道 | 48 | 辽宁卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8> |
+| 卫视频道 | 49 | 重庆卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8> |
+| 卫视频道 | 50 | 黑龙江卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8> |
+| 卫视频道 | 51 | 内蒙古卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8> |
+| 卫视频道 | 52 | 宁夏卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8> |
+| 卫视频道 | 53 | 陕西卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8> |
+| 卫视频道 | 54 | 甘肃卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8> |
+| 卫视频道 | 55 | 吉林卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8> |
+| 卫视频道 | 56 | 云南卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8> |
+| 卫视频道 | 57 | 三沙卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8> |
+| 卫视频道 | 58 | 青海卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8> |
+| 卫视频道 | 59 | 新疆卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8> |
+| 卫视频道 | 60 | 西藏卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8> |
+| 卫视频道 | 61 | 兵团卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8> |
+| 卫视频道 | 62 | 延边卫视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8> |
+| 卫视频道 | 63 | 大湾区卫视 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8> |
+| 卫视频道 | 64 | 安多卫视 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8> |
+| 卫视频道 | 65 | 厦门卫视 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8> |
+| 卫视频道 | 66 | 康巴卫视 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8> |
+| 卫视频道 | 67 | CETV-1 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8> |
+| 卫视频道 | 68 | CETV-2 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8> |
+| 卫视频道 | 69 | CETV-3 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 70 | CETV-4 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8> |
+| 卫视频道 | 71 | 金色学堂 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8> |
+| 卫视频道 | 72 | 纪实人文 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8> |
+| 卫视频道 | 73 | 生活时尚 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8> |
+| 卫视频道 | 74 | 乐游频道 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8> |
+| 卫视频道 | 75 | 都市剧场 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8> |
+| 卫视频道 | 76 | 欢笑剧场 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8> |
+| 卫视频道 | 77 | 纪实科教 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8> |
+| 卫视频道 | 78 | 卡酷少儿 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8> |
+| 卫视频道 | 79 | 金鹰纪实 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8> |
+| 卫视频道 | 80 | 金鹰卡通 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8> |
+| 卫视频道 | 81 | 茶友频道 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8> |
+| 卫视频道 | 82 | 快乐垂钓 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8> |
+| 卫视频道 | 83 | 梨园频道 | <http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ> |
+| 卫视频道 | 84 | 嘉佳卡通 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8> |
+| 卫视频道 | 85 | 动漫秀场 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8> |
+| 卫视频道 | 86 | 哈哈炫动 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8> |
+| 卫视频道 | 87 | 游戏风云 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8> |
+| 卫视频道 | 88 | 哒啵电竞 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8> |
+| 卫视频道 | 89 | 哒啵赛事 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8> |
+| 卫视频道 | 90 | 黑莓电影 | <http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8> |
+| 卫视频道 | 91 | 黑莓动画 | <http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8> |
+| 卫视频道 | 92 | 家庭理财 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8> |
+| 卫视频道 | 93 | 财富天下 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8> |
+| 卫视频道 | 94 | 弈坛春秋 | <http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 95 | 老故事 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8> |
+| 卫视频道 | 96 | 置业频道 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8> |
+| 卫视频道 | 97 | 中国天气 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8> |
+| 卫视频道 | 98 | 兵器科技 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8> |
+| 卫视频道 | 99 | 怀旧剧场 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8> |
+| 卫视频道 | 100 | 世界地理 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8> |
+| 卫视频道 | 101 | 文化精品 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8> |
+| 卫视频道 | 102 | 央视台球 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8> |
+| 卫视频道 | 103 | 央视高网 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8> |
+| 卫视频道 | 104 | 风云剧场 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8> |
+| 卫视频道 | 105 | 风云音乐 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8> |
+| 卫视频道 | 106 | 第一剧场 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8> |
+| 卫视频道 | 107 | 女性时尚 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8> |
+| 卫视频道 | 108 | 风云足球 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8> |
+| 卫视频道 | 109 | 电视指南 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8> |
+| 卫视频道 | 110 | 上海新闻 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8> |
+| 卫视频道 | 111 | 上海都市 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8> |
+| 卫视频道 | 112 | 上海ICS | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8> |
+| 卫视频道 | 113 | 七彩戏剧 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8> |
+| 卫视频道 | 114 | 上海教育 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8> |
+| 卫视频道 | 115 | 五星体育 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8> |
+| 卫视频道 | 116 | 东方影视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8> |
+| 卫视频道 | 117 | 东方财经 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8> |
+| 卫视频道 | 118 | 法治天地 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8> |
+| 卫视频道 | 119 | 第一财经 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8> |
+| 卫视频道 | 120 | 浙江公共新闻 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
+| 卫视频道 | 121 | 浙江国际 | <https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
+| 卫视频道 | 122 | 浙江少儿 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
+| 卫视频道 | 123 | 浙江教科影视 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 卫视频道 | 124 | 浙江数码时代 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 卫视频道 | 125 | 浙江民生休闲 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 卫视频道 | 126 | 浙江经济生活 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 卫视频道 | 127 | 浙江钱江频道 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 卫视频道 | 128 | 陕西新闻资讯 | <http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8> |
+| 卫视频道 | 129 | 陕西都市青春 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8> |
+| 卫视频道 | 130 | 陕西生活频道 | <http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8> |
+| 卫视频道 | 131 | 陕西影视频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8> |
+| 卫视频道 | 132 | 陕西公共频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8> |
+| 卫视频道 | 133 | 陕西体育休闲 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8> |
+| 卫视频道 | 134 | 陕西西部电影 | <http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8> |
+| 卫视频道 | 135 | 西安新闻综合 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8> |
+| 卫视频道 | 136 | 西安都市频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8> |
+| 卫视频道 | 137 | 西安商务资讯 | <http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8> |
+| 卫视频道 | 138 | 西安影视频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8> |
+| 卫视频道 | 139 | 西安丝路频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8> |
+| 卫视频道 | 140 | 西安教育频道 | <http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8> |
+| 卫视频道 | 141 | 求索记录 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3> |
+| 卫视频道 | 142 | 求索动物 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3> |
+| 卫视频道 | 143 | 求索科学 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3> |
+| 卫视频道 | 144 | 求索生活 | <http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3> |
+| 卫视频道 | 145 | 超级综艺 | <http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8> |
+| 卫视频道 | 146 | 超级体育 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8> |
+| 卫视频道 | 147 | 超级电影 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8> |
+| 卫视频道 | 148 | 超级电视剧 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8> |
+| 卫视频道 | 149 | 武博世界 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8> |
+| 卫视频道 | 150 | 中国功夫 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8> |
+| 卫视频道 | 151 | 军旅剧场 | <http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8> |
+| 卫视频道 | 152 | 炫舞未来 | <http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8> |
+| 卫视频道 | 153 | 潮妈辣婆 | <http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8> |
+| 卫视频道 | 154 | 精品体育 | <http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8> |
+| 卫视频道 | 155 | 精品纪录 | <http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8> |
+| 卫视频道 | 156 | 家庭剧场 | <http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8> |
+| 卫视频道 | 157 | 精品大剧 | <http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8> |
+| 卫视频道 | 158 | 军事评论 | <http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8> |
+| 卫视频道 | 159 | 明星大片 | <http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8> |
+| 卫视频道 | 160 | 东北热剧 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8> |
+| 卫视频道 | 161 | 欢乐剧场 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
+| 卫视频道 | 162 | CGTN英语 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8> |
+| 卫视频道 | 163 | CGTN记录 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 164 | CGTN俄语 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 165 | CGTN法语 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 166 | CGTN西语 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 167 | CGTN阿语 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
+| 卫视频道 | 168 | Bestv导视 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8> |
+| 卫视频道 | 169 | Bestv赛事1 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8> |
+| 卫视频道 | 170 | Bestv赛事2 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8> |
+| 卫视频道 | 171 | Bestv赛事3 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8> |
+| 卫视频道 | 172 | Bestv赛事4 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8> |
+| 卫视频道 | 173 | Bestv赛事5 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8> |
+| 卫视频道 | 174 | Bestv赛事6 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8> |
+| 卫视频道 | 175 | Bestv赛事7 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8> |
+| 卫视频道 | 176 | 东方购物1 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8> |
+| 卫视频道 | 177 | 东方购物2 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8> |
+| 卫视频道 | 178 | 央广购物 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8> |
+| 卫视频道 | 179 | 优购物 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001440/index.m3u8> |
+| 卫视频道 | 180 | 好享购物 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001132/index.m3u8> |
+| 卫视频道 | 181 | 聚鲨精选 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001138/index.m3u8> |
+| 卫视频道 | 182 | 家家购物 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8> |
+| 卫视频道 | 183 | 家有购物 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8> |
+| 卫视频道 | 184 | 快乐购 | <http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8> |
